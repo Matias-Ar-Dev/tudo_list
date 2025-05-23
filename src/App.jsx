@@ -1,5 +1,5 @@
 import { useState } from "react"
-import './app.css'
+import './App.css'
 import Todo from "./components/todo"
 import Todoform from "./components/todoform"
 import Search from "./components/search"
